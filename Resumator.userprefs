@@ -1,0 +1,31 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyFirstApplication\MainActivity.cs">
+    <Files>
+      <File FileName="MyFirstApplication\MainActivity.cs" Line="273" Column="30" />
+      <File FileName="MyFirstApplication\Resources\Resource.designer.cs" Line="89" Column="5" />
+      <File FileName="MyFirstApplication\DataFromSummary.cs" Line="16" Column="38" />
+      <File FileName="MyFirstApplication\Properties\AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="MyFirstApplication\Resources\AboutResources.txt" Line="1" Column="1" />
+      <File FileName="MyFirstApplication\Resources\values\Strings.xml" Line="1" Column="1" />
+      <File FileName="MyFirstApplication\Properties\AndroidManifest.xml" Line="6" Column="12" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Resumator" expanded="True">
+            <Node name="Resources" expanded="True">
+              <Node name="layout" expanded="True" />
+            </Node>
+            <Node name="MainActivity.cs" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Resumator MonoForAntroid.PreferredDevice="3.7in WVGA (Nexus One)" AndroidDeviceId-Debug="emulator-5554" />
+</Properties>

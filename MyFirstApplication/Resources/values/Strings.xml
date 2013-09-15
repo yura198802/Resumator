@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Резюматор</string>
+	 <string-array name="gender">
+        <item>Мужчина</item>
+        <item>Женщина</item>
+    </string-array>
+</resources>
